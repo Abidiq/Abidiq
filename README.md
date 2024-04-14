@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,AI and web Development
 - 💞️ I’m looking to collaborate on Projects related to Python,AI and web Development
-- 📫 How to reach me Whatsup me on 00923215135303
+- 📫 Whatsup me on 00923215135303
 
 
 <!---
